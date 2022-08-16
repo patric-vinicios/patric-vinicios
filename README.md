@@ -10,9 +10,20 @@
 
 **languages and tools:**
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,elixir,php,python,rust&perline=5)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,elixir,php,py,rust" />
+  </a>
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=react,vue,js,ts&perline=4)](https://skillicons.dev)
+<p align="center">
+
+  [![My Skills](https://skillicons.dev/icons?i=nodejs,elixir,php,py,rust&perline=5)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=aws,git&perline=2)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,redis,python,rust&perline=5)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi,selenium,tensorflow,rust&perline=5)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=react,vue,js,ts,nextjs,graphql&perline=6)](https://skillicons.dev)
+</p>
 
 <br />
 
