@@ -8,36 +8,34 @@
 
 <br />
 
-**languages and tools:**
+**Skills**
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,elixir,php,py,rust" />
   </a>
 </p>
-
 <p align="center">
-
-  [![My Skills](https://skillicons.dev/icons?i=nodejs,elixir,php,py,rust&perline=5)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=aws,git&perline=2)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,redis,python,rust&perline=5)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi,selenium,tensorflow,rust&perline=5)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=react,vue,js,ts,nextjs,graphql&perline=6)](https://skillicons.dev)
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,git" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,selenium,tensorflow" />
+  </a>
 </p>
 
-<br />
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/elixir.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,vue,js,ts,nextjs,graphql" />
+  </a>
+</p>
 
 <!--
 **itsMeNeutrino/itsMeNeutrino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
