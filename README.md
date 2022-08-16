@@ -10,7 +10,7 @@
 
 **languages and tools:**
 
-[![My Skills](https://skillicons.dev/icons?i=node,elixir,php,python,rust&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,elixir,php,python,rust&perline=5)](https://skillicons.dev)
 
 <br />
 
