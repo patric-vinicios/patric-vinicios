@@ -1,7 +1,7 @@
 <div align="center">
    <h1>
       Hi there, I'm Patric!
-      <img src="https://media0.giphy.com/media/SXyDYS8HSWfaMTmKGJ/giphy.gif?cid=790b761198183861eadd128afcbd03d08304701845c6a64a&rid=giphy.gif&ct=s" width="40px">
+      <img src="https://media0.giphy.com/media/SXyDYS8HSWfaMTmKGJ/giphy.gif?cid=790b761198183861eadd128afcbd03d08304701845c6a64a&rid=giphy.gif&ct=s" width="50px">
    </h1>
 </div>
 
