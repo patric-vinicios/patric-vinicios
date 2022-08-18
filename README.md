@@ -57,5 +57,5 @@ Here are some ideas to get you started:
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=imaneutrino&show_icons=true&theme=dracula" alt="imaneutrino" />
 <p>
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" width="100%" />
+  <img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="Jokes Card" width="100%" />
 </p>
