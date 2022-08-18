@@ -18,10 +18,10 @@
  - 🎮 𝙲𝚑𝚎𝚜𝚜 𝚊𝚗𝚍 𝚅𝚘𝚕𝚕𝚎𝚢𝚋𝚊𝚕𝚕 𝚙𝚕𝚊𝚢𝚎𝚛
  - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝙰𝙸, 𝙼𝚊𝚌𝚑𝚒𝚗𝚎 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚊𝚗𝚍 𝚛𝚘𝚋𝚘𝚝𝚒𝚌𝚜
  - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝: 𝙸 𝚍𝚘𝚗'𝚝 𝚛𝚎𝚊𝚕𝚕𝚢 𝚕𝚒𝚔𝚎 𝚐𝚎𝚛𝚖𝚜 𝚊𝚗𝚍 𝚍𝚒𝚛𝚝
-   
 
-## 📧 𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝚖𝚎
-  <a href="https://www.instagram.com/xxasdzc/">
+<div>
+   <h2>📧 𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝚖𝚎</h2>
+   <a href="https://www.instagram.com/xxasdzc/">
     <img align="left" alt="Patric's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
   </a>
   <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/patric-vinicios97/">
@@ -30,15 +30,7 @@
    <a href="https://www.buymeacoffee.com/psdev7F" target="_blank">
      <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" />
    </a>
-
-
-<!--
-**itsMeNeutrino/itsMeNeutrino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- ⚡ Fun fact: ...
--->
+</div>
 
 
 <h2>🚀 Some Tools I Use</h2>
