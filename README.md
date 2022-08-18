@@ -7,7 +7,7 @@
 
 
 <div>
-   <ul align="left">
+   <ul>
       <li>🖥 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚎𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐 𝚊𝚝 𝙳𝚆𝚅</li>
       <li>💼 Co-f𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏 <a href="https://rpainsiders.com.br"><img src="https://rpainsiders.com.br/blog/wp-content/uploads/2021/12/RPA-Logo-H-02.png" height="45" align="center" alt="Rpa Insiders" title="Rpa Insiders"/></a>
       </li>
