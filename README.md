@@ -51,9 +51,11 @@ Here are some ideas to get you started:
 
 
 
-<a href="https://www.buymeacoffee.com/psdev7F" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/psdev7F" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" />
+</a>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=imaneutrino&show_icons=true&theme=gotham" alt="imaneutrino" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=imaneutrino&show_icons=true&theme=dracula" alt="imaneutrino" />
 <p>
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" width="100%" />
 </p>
