@@ -9,16 +9,6 @@
 <br />
 
 **Skills**
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,selenium,tensorflow" />
-  </a>
-</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -38,6 +28,26 @@
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="amazon_aws" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="55" height="55"/>
+</p>
+
+<p>
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="55" height="55"/>
+</p>
+
+<p>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="raspberrypi" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="arduino" width="55" height="55"/>
+</p>
+
+<p>
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescriptlang" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="55" height="55"/>
 </p>
 
 <!--
