@@ -5,14 +5,21 @@
    </h1>
 </div>
 
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-   - 🖥 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚎𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐 𝚊𝚝 𝙳𝚆𝚅
-   - 💼 Co-f𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏 [<img src="https://rpainsiders.com.br/blog/wp-content/uploads/2021/12/RPA-Logo-H-02.png" height="45" align="center" alt="Rpa Insiders" title="Rpa Insiders"/>](https://rpainsiders.com.br/)
-   - 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝙼𝚎𝚌𝚑𝚊𝚝𝚛𝚘𝚗𝚒𝚌 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐 𝚊𝚗𝚍 𝙿𝚑𝚢𝚜𝚒𝚌𝚜
-   - 🎮 𝙲𝚑𝚎𝚜𝚜 𝚊𝚗𝚍 𝚅𝚘𝚕𝚕𝚎𝚢𝚋𝚊𝚕𝚕 𝚙𝚕𝚊𝚢𝚎𝚛
-   - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝙰𝙸, 𝙼𝚊𝚌𝚑𝚒𝚗𝚎 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚊𝚗𝚍 𝚛𝚘𝚋𝚘𝚝𝚒𝚌𝚜
-   - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝: 𝙸 𝚍𝚘𝚗'𝚝 𝚛𝚎𝚊𝚕𝚕𝚢 𝚕𝚒𝚔𝚎 𝚐𝚎𝚛𝚖𝚜 𝚊𝚗𝚍 𝚍𝚒𝚛𝚝
-   <img src="https://media0.giphy.com/media/dXICCcws9oxxK/giphy.gif?cid=790b7611e637806ae612d03a6329cf81829204a4f521a726&rid=giphy.gif&ct=g" alt="Who am I" />
+
+<div style="display:flex; justify-content: space-between;">
+   <ul>
+      <li>🖥 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚎𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐 𝚊𝚝 𝙳𝚆𝚅</li>
+      <li>💼 Co-f𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏 [<img src="https://rpainsiders.com.br/blog/wp-content/uploads/2021/12/RPA-Logo-H-02.png" height="45" align="center" alt="Rpa Insiders" title="Rpa Insiders"/>](https://rpainsiders.com.br/)</li>
+      <li>🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝙼𝚎𝚌𝚑𝚊𝚝𝚛𝚘𝚗𝚒𝚌 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐 𝚊𝚗𝚍 𝙿𝚑𝚢𝚜𝚒𝚌𝚜</li>
+      <li>🎮 𝙲𝚑𝚎𝚜𝚜 𝚊𝚗𝚍 𝚅𝚘𝚕𝚕𝚎𝚢𝚋𝚊𝚕𝚕 𝚙𝚕𝚊𝚢𝚎𝚛</li>
+      <li>🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝙰𝙸, 𝙼𝚊𝚌𝚑𝚒𝚗𝚎 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚊𝚗𝚍 𝚛𝚘𝚋𝚘𝚝𝚒𝚌𝚜</li>
+      <li>⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝: 𝙸 𝚍𝚘𝚗'𝚝 𝚛𝚎𝚊𝚕𝚕𝚢 𝚕𝚒𝚔𝚎 𝚐𝚎𝚛𝚖𝚜 𝚊𝚗𝚍 𝚍𝚒𝚛𝚝</li>
+   </ul>
+   <div>
+      <img src="https://media0.giphy.com/media/dXICCcws9oxxK/giphy.gif?cid=790b7611e637806ae612d03a6329cf81829204a4f521a726&rid=giphy.gif&ct=g" alt="Who am I" />
+   </div>
+</div>
+   
 
 ## 📧 𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝚖𝚎
   <a href="https://www.instagram.com/xxasdzc/">
