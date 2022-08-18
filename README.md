@@ -5,15 +5,15 @@
    </h1>
 </div>
 
-   ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
    - 🖥 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚎𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐 𝚊𝚝 𝙳𝚆𝚅
    - 💼 Co-f𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏 [<img src="https://rpainsiders.com.br/blog/wp-content/uploads/2021/12/RPA-Logo-H-02.png" height="45" align="center" alt="Rpa Insiders" title="Rpa Insiders"/>](https://rpainsiders.com.br/)
    - 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝙼𝚎𝚌𝚑𝚊𝚝𝚛𝚘𝚗𝚒𝚌 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐 𝚊𝚗𝚍 𝙿𝚑𝚢𝚜𝚒𝚌𝚜
    - 🎮 𝙲𝚑𝚎𝚜𝚜 𝚊𝚗𝚍 𝚅𝚘𝚕𝚕𝚎𝚢𝚋𝚊𝚕𝚕 𝚙𝚕𝚊𝚢𝚎𝚛
-   - 📫 𝚁𝚎𝚊𝚌𝚑 𝚖𝚎 <a href="https://www.instagram.com/xxasdzc/"><img align="left" alt="Patric's Instagram" width="15px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" /></a> | <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/patric-vinicios97/"><img align="left" alt="Patric's LinkedIN" width="15px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
    - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝙰𝙸, 𝙼𝚊𝚌𝚑𝚒𝚗𝚎 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚊𝚗𝚍 𝚛𝚘𝚋𝚘𝚝𝚒𝚌𝚜
    - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝: 𝙸 𝚍𝚘𝚗'𝚝 𝚛𝚎𝚊𝚕𝚕𝚢 𝚕𝚒𝚔𝚎 𝚐𝚎𝚛𝚖𝚜 𝚊𝚗𝚍 𝚍𝚒𝚛𝚝
 
+## 📧 𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝚖𝚎
 <div>
   <a href="https://www.instagram.com/xxasdzc/">
     <img align="left" alt="Patric's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
