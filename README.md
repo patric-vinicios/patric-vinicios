@@ -14,16 +14,16 @@
    - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝: 𝙸 𝚍𝚘𝚗'𝚝 𝚛𝚎𝚊𝚕𝚕𝚢 𝚕𝚒𝚔𝚎 𝚐𝚎𝚛𝚖𝚜 𝚊𝚗𝚍 𝚍𝚒𝚛𝚝
 
 ## 📧 𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝚖𝚎
-<div>
   <a href="https://www.instagram.com/xxasdzc/">
     <img align="left" alt="Patric's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
   </a>
   <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/patric-vinicios97/">
     <img align="left" alt="Patric's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
-</div>
+   <a href="https://www.buymeacoffee.com/psdev7F" target="_blank">
+     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" />
+   </a>
 
-<hr />
 
 <!--
 **itsMeNeutrino/itsMeNeutrino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,11 +33,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
-<a href="https://www.buymeacoffee.com/psdev7F" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" />
-</a>
 
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
