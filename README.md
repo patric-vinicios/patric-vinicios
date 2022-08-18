@@ -15,9 +15,10 @@
   <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="35" height="35"/>
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="35" height="35"/>
   <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="35" height="35"/>
-</p>
-
-<p>
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="35" height="35"/>
+  <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" width="35" height="35"/>
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescriptlang" width="35" height="35"/>
+  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="35" height="35"/>
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="amazon_aws" width="35" height="35"/>
   <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="35" height="35"/>
   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="35" height="35"/>
@@ -28,19 +29,9 @@
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="35" height="35"/>
   <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="35" height="35"/>
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="35" height="35"/>
-</p>
-
-<p>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="35" height="35"/>
   <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="raspberrypi" width="35" height="35"/>
   <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="arduino" width="35" height="35"/>
-</p>
-
-<p>
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="35" height="35"/>
-  <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" width="35" height="35"/>
-  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescriptlang" width="35" height="35"/>
-  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="35" height="35"/>
 </p>
 
 <!--
