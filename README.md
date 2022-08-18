@@ -6,37 +6,17 @@
 </div>
 
 
-<h2>𝙰𝚋𝚘𝚞𝚝 𝚖𝚎</h2>
-<div style="display: flex; flex-direction: row;">
-   <ul>
-      <li>🖥 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚎𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐 𝚊𝚝 𝙳𝚆𝚅</li>
-      <li>💼 Co-f𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏 <a href="https://rpainsiders.com.br"><img src="https://rpainsiders.com.br/blog/wp-content/uploads/2021/12/RPA-Logo-H-02.png" height="45" align="center" alt="Rpa Insiders" title="Rpa Insiders"/></a>
-      </li>
-      <li>🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝙼𝚎𝚌𝚑𝚊𝚝𝚛𝚘𝚗𝚒𝚌 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐 𝚊𝚗𝚍 𝙿𝚑𝚢𝚜𝚒𝚌𝚜</li>
-      <li>🎮 𝙲𝚑𝚎𝚜𝚜 𝚊𝚗𝚍 𝚅𝚘𝚕𝚕𝚎𝚢𝚋𝚊𝚕𝚕 𝚙𝚕𝚊𝚢𝚎𝚛</li>
-      <li>🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝙰𝙸, 𝙼𝚊𝚌𝚑𝚒𝚗𝚎 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚊𝚗𝚍 𝚛𝚘𝚋𝚘𝚝𝚒𝚌𝚜</li>
-      <li>⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝: 𝙸 𝚍𝚘𝚗'𝚝 𝚛𝚎𝚊𝚕𝚕𝚢 𝚕𝚒𝚔𝚎 𝚐𝚎𝚛𝚖𝚜 𝚊𝚗𝚍 𝚍𝚒𝚛𝚝</li>
-   </ul>
-   <div>
-      <img src="https://media0.giphy.com/media/dXICCcws9oxxK/giphy.gif?cid=790b7611e637806ae612d03a6329cf81829204a4f521a726&rid=giphy.gif&ct=g" alt="Who am I" />
-   </div>
-</div>
 
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media0.giphy.com/media/6Nm4HEzQVtEis/giphy.gif?cid=790b76110fdb244e1f961acd919f0a6e49fe20b06daf0216&rid=giphy.gif&ct=g" />
 <p align="center">
   <h3> 𝙰𝚋𝚘𝚞𝚝 𝚖𝚎</h3>
 </p>
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media0.giphy.com/media/6Nm4HEzQVtEis/giphy.gif?cid=790b76110fdb244e1f961acd919f0a6e49fe20b06daf0216&rid=giphy.gif&ct=g" />
 
  - 🖥 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚎𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐 𝚊𝚝 𝙳𝚆𝚅
- 
  - 💼 Co-f𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏 <a href="https://rpainsiders.com.br"><img src="https://rpainsiders.com.br/blog/wp-content/uploads/2021/12/RPA-Logo-H-02.png" height="45" align="center" alt="Rpa Insiders" title="Rpa Insiders"/></a>
-   
  - 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝙼𝚎𝚌𝚑𝚊𝚝𝚛𝚘𝚗𝚒𝚌 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐 𝚊𝚗𝚍 𝙿𝚑𝚢𝚜𝚒𝚌𝚜
-
  - 🎮 𝙲𝚑𝚎𝚜𝚜 𝚊𝚗𝚍 𝚅𝚘𝚕𝚕𝚎𝚢𝚋𝚊𝚕𝚕 𝚙𝚕𝚊𝚢𝚎𝚛
- 
  - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝙰𝙸, 𝙼𝚊𝚌𝚑𝚒𝚗𝚎 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚊𝚗𝚍 𝚛𝚘𝚋𝚘𝚝𝚒𝚌𝚜
- 
  - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝: 𝙸 𝚍𝚘𝚗'𝚝 𝚛𝚎𝚊𝚕𝚕𝚢 𝚕𝚒𝚔𝚎 𝚐𝚎𝚛𝚖𝚜 𝚊𝚗𝚍 𝚍𝚒𝚛𝚝
    
 
