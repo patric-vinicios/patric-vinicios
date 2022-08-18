@@ -21,6 +21,23 @@
       <img src="https://media0.giphy.com/media/dXICCcws9oxxK/giphy.gif?cid=790b7611e637806ae612d03a6329cf81829204a4f521a726&rid=giphy.gif&ct=g" alt="Who am I" />
    </div>
 </div>
+
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
+<p align="center">
+  <h3> I'm 19 years old Self-taught Full-Stack developer from India.</h3>
+</p>
+
+ - 🥀 Learning Swift & Objective_C
+ 
+ - <i>with Javascript, Typescript, React and 69 others.</i>
+   
+ - 🔭 SpaceX FanBoi, die for space😼
+
+ - 🛸 Into High Energy Physics and Astrophysics, i love shooting stars too.
+ 
+ - I do fullstack and a bit of everything :heart:
+ 
+ - All About living life at its best.
    
 
 ## 📧 𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝚖𝚎
