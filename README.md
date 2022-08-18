@@ -9,13 +9,6 @@
 <br />
 
 **Skills**
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vue,js,ts,nextjs,graphql" />
-  </a>
-</p>
-
 <p>
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="55" height="55"/>
@@ -70,3 +63,5 @@ Here are some ideas to get you started:
 <a href="https://www.buymeacoffee.com/psdev7F" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=imaneutrino&show_icons=true&theme=gotham" alt="imaneutrino" />
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
