@@ -23,6 +23,11 @@
 <br><br><br>
 
 <div>
+   <h2>📧 𝚂𝚘𝚖𝚎𝚝𝚑𝚒𝚗𝚐 𝚊𝚋𝚘𝚞𝚝 𝚖𝚎</h2>
+   <p>Not everybody is good to talk about yourself but I will sum up in little words... I live a fine line between classical music and death core. I like to read any kind of books but I prefer science and philosophy books. I speak 3 languages: English; Japanese and a little French. Now (for some unknown reason), I'm learning German. I usually play chess in the free times and volleyball as a main sport. I watch a lot of animes and I love those with a smart character (I hate animes about sports). I don't think this is enough but as I remember some useful details I will updating this "About me" section.</p>
+</div>
+
+<div>
    <h2>📧 𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝚖𝚎</h2>
    <a href="https://www.instagram.com/xxasdzc/">
     <img align="left" alt="Patric's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
