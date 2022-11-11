@@ -64,7 +64,7 @@
   <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="arduino" width="25" height="25"/>
 </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=imaneutrino&show_icons=true&theme=dracula" alt="imaneutrino" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=patric-vinicios&show_icons=true&theme=dracula" alt="patric-vinicios" />
 <p>
   <img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="Jokes Card" width="100%" />
 </p>
