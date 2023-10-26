@@ -15,7 +15,7 @@
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media0.giphy.com/media/6Nm4HEzQVtEis/giphy.gif?cid=790b76110fdb244e1f961acd919f0a6e49fe20b06daf0216&rid=giphy.gif&ct=g" />
 
  - 🖥 Software Engineering at Inover
- - 💼 Co-founder of <a href="https://rpainsiders.com.br"><img src="https://www.rpainsiders.com.br/_next/image?url=%2Fimages%2Flogo.png&w=256&q=75" height="30" width="30" />Rpa Insiders</a>
+ - 💼 Co-founder of <a href="https://rpainsiders.com.br"><img src="https://www.rpainsiders.com.br/_next/image?url=%2Fimages%2Flogo.png&w=256&q=75" height="40" width="100" /></a>
  - 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝙼𝚎𝚌𝚑𝚊𝚝𝚛𝚘𝚗𝚒𝚌 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐 𝚊𝚗𝚍 𝙿𝚑𝚢𝚜𝚒𝚌𝚜
  - 🎮 𝙲𝚑𝚎𝚜𝚜 𝚊𝚗𝚍 𝚅𝚘𝚕𝚕𝚎𝚢𝚋𝚊𝚕𝚕 𝚙𝚕𝚊𝚢𝚎𝚛
  - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝙰𝙸, 𝙼𝚊𝚌𝚑𝚒𝚗𝚎 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚊𝚗𝚍 𝚛𝚘𝚋𝚘𝚝𝚒𝚌𝚜
