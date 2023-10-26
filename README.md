@@ -10,7 +10,7 @@
 <p align="center">
   <h3> 𝙰𝚋𝚘𝚞𝚝 𝚖𝚎</h3>
 </p>
-<p>Full-stack developer with 5 years of XP.</p>
+<p>Full-stack developer with 4 years of XP on developing products and projects for enterprises. Focused and passionated in backend development.</p>
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media0.giphy.com/media/6Nm4HEzQVtEis/giphy.gif?cid=790b76110fdb244e1f961acd919f0a6e49fe20b06daf0216&rid=giphy.gif&ct=g" />
 
  - 🖥 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚎𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐 𝚊𝚝 Inover
