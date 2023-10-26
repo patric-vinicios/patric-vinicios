@@ -13,13 +13,11 @@
 <p>Full-stack developer with 4 years of XP on developing products and projects for enterprises. Focused and passionated in backend development.</p>
 <p>Spending some free time writing blog posts and teaching frontend development.</p>
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media0.giphy.com/media/6Nm4HEzQVtEis/giphy.gif?cid=790b76110fdb244e1f961acd919f0a6e49fe20b06daf0216&rid=giphy.gif&ct=g" />
-<div>
  - 🖥 Software Engineering at Inover
  - 💼 Co-founder of <a href="https://rpainsiders.com.br">Rpa Insiders</a>
  - 🎓 Studying Mechatronic Engineering and Physics
  - 🎮 Volleyball player
  - 🌱 Learning about System Architectures and DevOps
-</div>
 
 <br><br><br>
 
