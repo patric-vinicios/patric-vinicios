@@ -23,7 +23,7 @@
 <br><br><br>
 
 <div>
-   <h4>Learning to <strong>code</strong> and <strong>design</strong> changes my life. Now I don't have one.</h4>
+   <p>Learning to <strong>code</strong> and <strong>design</strong> changed my life. Now I don't have one.</p>
 </div>
 
 <div>
