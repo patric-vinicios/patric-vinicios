@@ -25,6 +25,7 @@
 <div>
    <p>Learning to <strong>code</strong> and <strong>design</strong> changed my life. Now I don't have one.</p>
 </div>
+<p></p>
 
 <div>
    <h2>📧 𝚂𝚘𝚖𝚎𝚝𝚑𝚒𝚗𝚐 𝚊𝚋𝚘𝚞𝚝 𝚖𝚎</h2>
