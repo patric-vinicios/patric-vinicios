@@ -21,9 +21,9 @@
  - 🌱 Learning about System Architectures and DevOps
  <p></p>
 
-<h4>Learning to <strong>code</strong> and <strong>design</strong> changes my life. Now I don't have one.</h4>
-
 <br><br><br>
+
+<h4>Learning to <strong>code</strong> and <strong>design</strong> changes my life. Now I don't have one.</h4>
 
 <div>
    <h2>📧 𝚂𝚘𝚖𝚎𝚝𝚑𝚒𝚗𝚐 𝚊𝚋𝚘𝚞𝚝 𝚖𝚎</h2>
