@@ -19,7 +19,6 @@
  - 🎓 Studying Mechatronic Engineering and Physics
  - 🎮 Volleyball player
  - 🌱 Learning about System Architectures and DevOps
- <p></p>
 
 <br><br><br>
 
