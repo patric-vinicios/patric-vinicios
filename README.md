@@ -31,7 +31,7 @@
     <img align="left" alt="Patric's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
   </a>
   <a href="https://www.linkedin.com/in/patric-vinicios97/">
-    <img align="left" alt="Patric's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+    <img align="left" alt="Patric's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.png" />
   </a>
    <a href="https://www.buymeacoffee.com/psdev7F" target="_blank">
      <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" />
