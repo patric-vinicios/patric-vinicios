@@ -15,11 +15,13 @@
 </p>
 <p>𝘚𝘱𝘦𝘯𝘥𝘪𝘯𝘨 𝘴𝘰𝘮𝘦 𝘧𝘳𝘦𝘦 𝘵𝘪𝘮𝘦 𝘸𝘳𝘪𝘵𝘪𝘯𝘨 𝘣𝘭𝘰𝘨 𝘱𝘰𝘴𝘵𝘴 𝘢𝘯𝘥 𝘵𝘦𝘢𝘤𝘩𝘪𝘯𝘨 𝘧𝘳𝘰𝘯𝘵𝘦𝘯𝘥 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵.</p>
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media0.giphy.com/media/6Nm4HEzQVtEis/giphy.gif?cid=790b76110fdb244e1f961acd919f0a6e49fe20b06daf0216&rid=giphy.gif&ct=g" />
- - 🖥 Software Engineering at Inover
+<div align="left">
+ - 🖥 Software Engineer at Inover
  - 💼 Co-founder of <a href="https://rpainsiders.com.br">Rpa Insiders</a>
  - 🎓 Studying Mechatronic Engineering and Physics
  - 🎮 Volleyball player
  - 🌱 Learning about System Architectures and DevOps
+</div>
 
 <br><br><br>
 
