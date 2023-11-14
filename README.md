@@ -42,13 +42,13 @@
  <h3 align="left">Support:</h3>
  <p><a href="https://www.buymeacoffee.com/psdev7f"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="psdev7f" /></a></p><br><br>
  
- <div style="display: flex; justify-content: space-evenly;">
-    <img width="300" height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=patric-vinicios&" alt="patric-vinicios" />
-    &nbsp;<img width="300" height="300" src="https://github-readme-stats.vercel.app/api?username=patric-vinicios&show_icons=true&locale=en" alt="patric-vinicios" />
-    <img width="300" height="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=patric-vinicios&show_icons=true&locale=en&layout=compact" alt="patric-vinicios" />
+ <div style="display: flex; justify-content: left;">
+    <img width="300" height="400" src="https://github-readme-streak-stats.herokuapp.com/?user=patric-vinicios&" alt="patric-vinicios" />
+    &nbsp;<img width="300" height="400" src="https://github-readme-stats.vercel.app/api?username=patric-vinicios&show_icons=true&locale=en" alt="patric-vinicios" />
  </div>
  
  <div style="display: flex; justify-content: space-evenly;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=patric-vinicios&show_icons=true&locale=en&layout=compact" alt="patric-vinicios" />
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patric-vinicios" alt="patric-vinicios" /></a>
  </div>
  
