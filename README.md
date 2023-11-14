@@ -26,16 +26,12 @@
 <br><br><br>
 
 <div>
-   <h2>📧 𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝚖𝚎</h2>
-   <a href="https://www.instagram.com/xxasdzc/">
-    <img align="left" alt="Patric's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-  </a>
-  <a href="https://www.linkedin.com/in/patric-vinicios97/">
-    <img align="left" alt="Patric's LinkedIN" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png" />
-  </a>
-   <a href="https://www.buymeacoffee.com/psdev7F" target="_blank">
-     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" />
-   </a>
+   <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/patric-vinicios97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patric-vinicios97" height="30" width="40" /></a>
+<a href="https://instagram.com/xxasdzc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xxasdzc" height="30" width="40" /></a>
+<a href="https://discord.gg/patric3970" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="patric3970" height="30" width="40" /></a>
+</p>
 </div>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=patric-vinicios&show_icons=true&theme=dracula" alt="patric-vinicios" />
