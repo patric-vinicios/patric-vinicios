@@ -42,3 +42,7 @@
 <p>
   <img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="Jokes Card" width="100%" />
 </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patric-vinicios" alt="patric-vinicios" /></a> </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=patric-vinicios&show_icons=true&locale=en" alt="patric-vinicios" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patric-vinicios&" alt="patric-vinicios" /></p>
