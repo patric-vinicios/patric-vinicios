@@ -37,11 +37,11 @@
 </p>
 </div>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=patric-vinicios&show_icons=true&theme=dracula" alt="patric-vinicios" />
-<p>
-  <img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="Jokes Card" width="100%" />
-</p>
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/psdev7f"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="psdev7f" /></a></p><br><br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=patric-vinicios&label=Profile%20views&color=0e75b6&style=flat" alt="patric-vinicios" /> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=patric-vinicios&show_icons=true&locale=en&layout=compact" alt="patric-vinicios" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patric-vinicios" alt="patric-vinicios" /></a> </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=patric-vinicios&show_icons=true&locale=en" alt="patric-vinicios" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patric-vinicios&" alt="patric-vinicios" /></p>
