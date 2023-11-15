@@ -60,7 +60,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=patric-vinicios&show_icons=true&locale=en&layout=compact" alt="patric-vinicios" /> 
  </div>
  
- <div style="display: flex; justify-content: space-evenly;">
+ <div>
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patric-vinicios" alt="patric-vinicios" /></a>
  </div>
  
