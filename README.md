@@ -53,18 +53,18 @@
          </a>
      </p>
  </div>
- 
- <div align="left">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=patric-vinicios&" alt="patric-vinicios" />
-    <img src="https://github-readme-stats.vercel.app/api?username=patric-vinicios&show_icons=true&locale=en" alt="patric-vinicios" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=patric-vinicios&show_icons=true&locale=en&layout=compact" alt="patric-vinicios" /> 
- </div>
- 
- <div>
+  <div>
     <p align="left">
         <a href="https://github.com/ryo-ma/github-profile-trophy">
             <img src="https://github-profile-trophy.vercel.app/?username=patric-vinicios&title=MultiLanguage,Commits,Repositories,Experience" alt="patric-vinicios" />
         </a>
     </p>
  </div>
+
+ <div align="left">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=patric-vinicios&" alt="patric-vinicios" />
+    <img src="https://github-readme-stats.vercel.app/api?username=patric-vinicios&show_icons=true&locale=en" alt="patric-vinicios" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=patric-vinicios&show_icons=true&locale=en&layout=compact" alt="patric-vinicios" /> 
+ </div>
+
  
