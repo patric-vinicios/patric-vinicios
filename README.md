@@ -63,7 +63,7 @@
  <div>
     <p align="left">
         <a href="https://github.com/ryo-ma/github-profile-trophy">
-            <img src="https://github-profile-trophy.vercel.app/?username=patric-vinicios&title=MultiLanguage,Commits,Repositories,Experience,AncientUser" alt="patric-vinicios" />
+            <img src="https://github-profile-trophy.vercel.app/?username=patric-vinicios&title=MultiLanguage,Commits,Repositories,Experience" alt="patric-vinicios" />
         </a>
     </p>
  </div>
