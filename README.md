@@ -61,6 +61,6 @@
  </div>
  
  <div>
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patric-vinicios" alt="patric-vinicios" /></a>
+    [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
  </div>
  
