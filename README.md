@@ -55,9 +55,9 @@
  </div>
  
  <div align="left">
-    <img width="300" height="400" src="https://github-readme-streak-stats.herokuapp.com/?user=patric-vinicios&" alt="patric-vinicios" />
-    <img width="300" height="400" src="https://github-readme-stats.vercel.app/api?username=patric-vinicios&show_icons=true&locale=en" alt="patric-vinicios" />
-    <img width="300" height="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=patric-vinicios&show_icons=true&locale=en&layout=compact" alt="patric-vinicios" /> 
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=patric-vinicios&" alt="patric-vinicios" />
+    <img src="https://github-readme-stats.vercel.app/api?username=patric-vinicios&show_icons=true&locale=en" alt="patric-vinicios" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=patric-vinicios&show_icons=true&locale=en&layout=compact" alt="patric-vinicios" /> 
  </div>
  
  <div>
