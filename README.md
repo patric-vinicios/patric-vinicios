@@ -32,15 +32,27 @@
  
  <div>
     <h3 align="left">Connect with me:</h3>
- <p align="left">
- <a href="https://linkedin.com/in/patric-vinicios97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patric-vinicios97" height="30" width="40" /></a>
- <a href="https://instagram.com/xxasdzc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xxasdzc" height="30" width="40" /></a>
- <a href="https://discord.gg/patric3970" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="patric3970" height="30" width="40" /></a>
- </p>
+     <p align="left">
+         <a href="https://linkedin.com/in/patric-vinicios97" target="blank">
+             <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patric-vinicios97" height="30" width="40" />
+         </a>
+         <a href="https://instagram.com/xxasdzc" target="blank">
+             <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xxasdzc" height="30" width="40" />
+         </a>
+         <a href="https://discord.gg/patric3970" target="blank">
+             <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="patric3970" height="30" width="40" />
+         </a>
+     </p>
  </div>
  
- <h3 align="left">Support:</h3>
- <p><a href="https://www.buymeacoffee.com/psdev7f"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="psdev7f" /></a></p><br><br>
+ <div>
+     <h3 align="left">Support:</h3>
+     <p>
+         <a href="https://www.buymeacoffee.com/psdev7f">
+             <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="psdev7f" />
+         </a>
+     </p>
+ </div>
  
  <div style="display: flex; justify-content: left;">
     <img width="300" height="400" src="https://github-readme-streak-stats.herokuapp.com/?user=patric-vinicios&" alt="patric-vinicios" />
