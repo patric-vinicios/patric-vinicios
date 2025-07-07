@@ -6,22 +6,23 @@
 
 <p>
   I'm a <strong>Software Engineer</strong> with experience since 2021, working primarily with <strong>Elixir</strong>, <strong>Go</strong>, <strong>Python</strong>, and <strong>Next.js</strong>.
-  I specialize in building <strong>robust backends</strong>, <strong>well-structured APIs</strong>, and <strong>scalable, production-ready systems</strong>.
+  I specialize in designing robust backends and scalable APIs with a strong focus on system resilience, performance, and maintainability.</strong>.
 </p>
 
 <img align="right" height="270" width="450" alt="GIF" src="https://media0.giphy.com/media/6Nm4HEzQVtEis/giphy.gif?cid=790b76110fdb244e1f961acd919f0a6e49fe20b06daf0216&rid=giphy.gif&ct=g" />
 
 ### 🔧 Key Focus Areas
 
-- Backend Development with Elixir, Go, and Python  
-- Modern Web Applications with Next.js  
-- Clean & Scalable Architectures  
-- System Design: scalable, modular, and fault-tolerant architectures  
-- CI/CD & DevOps: Docker, GitHub Actions, Redis, RabbitMQ, NGINX, Kubernetes  
-- API Development: RESTful and GraphQL with performance and security in mind  
-- Testing & Code Quality: unit, integration tests, and automation
+- **Backend Development** — Elixir, Go, Python  
+- **Modern Web Interfaces** — Next.js (React)  
+- **System Design** — scalable, modular, and fault-tolerant architectures  
+- **API Engineering** — REST and GraphQL APIs with performance, versioning, and security best practices  
+- **DevOps & CI/CD** — Docker, GitHub Actions, Kubernetes, NGINX, Redis, RabbitMQ  
+- **Testing Culture** — unit, integration, and E2E testing to ensure reliability and fast iteration  
+- **Software Architecture** — clean code, domain-driven design, separation of concerns
 
-<p>I’m focused on building systems that are clean, testable, and production-ready to handle real-world complexity.</p>
+
+<p>I'm committed to crafting systems that are clean, testable, scalable, and ready to meet the demands of real-world environments.</p>
 
 ---
 
@@ -60,6 +61,12 @@
 
 ---
 
+### 🧭 Currently Learning
+
+- Advanced System Design
+- Scalable API Architecture
+- Observability & Monitoring (Prometheus, Grafana)
+
 <p align="right">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=patric-vinicios&title=MultiLanguage,Commits,Repositories,Experience" alt="profile trophies" />
@@ -71,3 +78,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=patric-vinicios&show_icons=true&locale=en" alt="patric-vinicios" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=patric-vinicios&show_icons=true&locale=en&layout=compact" alt="patric-vinicios" />
 </div>
+
